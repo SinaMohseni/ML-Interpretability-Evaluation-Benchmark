@@ -1,0 +1,21 @@
+{
+ "article": "59262", 
+ "words": [
+  [
+   "msg", 
+   0.5
+  ], 
+  [
+   "ulcer", 
+   0.5
+  ], 
+  [
+   "allergic", 
+   1.0
+  ], 
+  [
+   "sensitivity", 
+   0.5
+  ]
+ ]
+}

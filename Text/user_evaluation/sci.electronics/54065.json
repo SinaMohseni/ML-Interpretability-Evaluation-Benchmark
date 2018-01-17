@@ -1,0 +1,37 @@
+{
+ "article": "54065", 
+ "words": [
+  [
+   "encrypted", 
+   0.5
+  ], 
+  [
+   "byte", 
+   1.0
+  ], 
+  [
+   "disks", 
+   1.0
+  ], 
+  [
+   "copy", 
+   0.5
+  ], 
+  [
+   "protected", 
+   0.5
+  ], 
+  [
+   "user", 
+   0.5
+  ], 
+  [
+   "registers", 
+   0.5
+  ], 
+  [
+   "bootup", 
+   0.5
+  ]
+ ]
+}

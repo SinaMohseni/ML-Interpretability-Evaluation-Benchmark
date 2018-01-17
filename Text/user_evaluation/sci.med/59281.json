@@ -1,0 +1,37 @@
+{
+ "article": "59281", 
+ "words": [
+  [
+   "fibromyalgia", 
+   1.0
+  ], 
+  [
+   "cfs", 
+   0.5
+  ], 
+  [
+   "depression", 
+   1.0
+  ], 
+  [
+   "clinical", 
+   1.0
+  ], 
+  [
+   "antidepressants", 
+   1.0
+  ], 
+  [
+   "diseases", 
+   1.0
+  ], 
+  [
+   "medical", 
+   1.0
+  ], 
+  [
+   "sleep", 
+   1.0
+  ]
+ ]
+}

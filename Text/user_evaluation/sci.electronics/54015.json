@@ -1,0 +1,49 @@
+{
+ "article": "54015", 
+ "words": [
+  [
+   "assemblers", 
+   1.0
+  ], 
+  [
+   "compilers", 
+   1.0
+  ], 
+  [
+   "compiler", 
+   1.0
+  ], 
+  [
+   "cross", 
+   0.5
+  ], 
+  [
+   "assembler", 
+   1.0
+  ], 
+  [
+   "motorola", 
+   0.5
+  ], 
+  [
+   "68008", 
+   0.5
+  ], 
+  [
+   "gnu", 
+   1.0
+  ], 
+  [
+   "port", 
+   0.5
+  ], 
+  [
+   "chip", 
+   1.0
+  ], 
+  [
+   "shareware", 
+   0.5
+  ]
+ ]
+}

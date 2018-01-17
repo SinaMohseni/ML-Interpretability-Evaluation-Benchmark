@@ -1,0 +1,57 @@
+{
+ "article": "59274", 
+ "words": [
+  [
+   "haldol", 
+   1.0
+  ], 
+  [
+   "nursing", 
+   1.0
+  ], 
+  [
+   "confusion", 
+   0.5
+  ], 
+  [
+   "anesthetic", 
+   1.0
+  ], 
+  [
+   "medicines", 
+   1.0
+  ], 
+  [
+   "medications", 
+   1.0
+  ], 
+  [
+   "drug", 
+   1.0
+  ], 
+  [
+   "antipsychotic", 
+   1.0
+  ], 
+  [
+   "nursing93", 
+   1.0
+  ], 
+  [
+   "agitation", 
+   0.5
+  ], 
+  [
+   "senile", 
+   1.0
+  ], 
+  [
+   "dementia", 
+   1.0
+  ], 
+  [
+   "body", 
+   0.5
+  ]
+ ]
+}

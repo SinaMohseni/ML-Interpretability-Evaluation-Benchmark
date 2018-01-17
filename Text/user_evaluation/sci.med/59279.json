@@ -1,0 +1,45 @@
+{
+ "article": "59279", 
+ "words": [
+  [
+   "syringe", 
+   1.0
+  ], 
+  [
+   "needles", 
+   1.0
+  ], 
+  [
+   "doctor", 
+   1.0
+  ], 
+  [
+   "hypodermic", 
+   1.0
+  ], 
+  [
+   "needle", 
+   0.5
+  ], 
+  [
+   "injected", 
+   1.0
+  ], 
+  [
+   "near", 
+   1.0
+  ], 
+  [
+   "painless", 
+   1.0
+  ], 
+  [
+   "injection", 
+   1.0
+  ], 
+  [
+   "syringes", 
+   1.0
+  ]
+ ]
+}

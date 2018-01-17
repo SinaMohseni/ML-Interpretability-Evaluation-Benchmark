@@ -1,0 +1,45 @@
+{
+ "article": "54051", 
+ "words": [
+  [
+   "hard", 
+   1.0
+  ], 
+  [
+   "drive", 
+   1.0
+  ], 
+  [
+   "disk", 
+   0.5
+  ], 
+  [
+   "swapping", 
+   0.5
+  ], 
+  [
+   "rom", 
+   1.0
+  ], 
+  [
+   "software", 
+   1.0
+  ], 
+  [
+   "copy", 
+   1.0
+  ], 
+  [
+   "protection", 
+   1.0
+  ], 
+  [
+   "disks", 
+   0.5
+  ], 
+  [
+   "protected", 
+   0.5
+  ]
+ ]
+}

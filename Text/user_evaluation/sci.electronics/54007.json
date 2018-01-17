@@ -1,0 +1,33 @@
+{
+ "article": "54007", 
+ "words": [
+  [
+   "disks", 
+   0.5
+  ], 
+  [
+   "lzw", 
+   1.0
+  ], 
+  [
+   "compressed", 
+   1.0
+  ], 
+  [
+   "encryption", 
+   1.0
+  ], 
+  [
+   "copy", 
+   0.5
+  ], 
+  [
+   "protected", 
+   0.5
+  ], 
+  [
+   "bytes", 
+   0.5
+  ]
+ ]
+}

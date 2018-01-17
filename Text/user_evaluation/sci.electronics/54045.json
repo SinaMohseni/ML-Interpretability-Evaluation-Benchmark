@@ -1,0 +1,57 @@
+{
+ "article": "54045", 
+ "words": [
+  [
+   "lead", 
+   0.5
+  ], 
+  [
+   "batteries", 
+   1.0
+  ], 
+  [
+   "acid", 
+   0.5
+  ], 
+  [
+   "battery", 
+   1.0
+  ], 
+  [
+   "discharge", 
+   1.0
+  ], 
+  [
+   "discharged", 
+   1.0
+  ], 
+  [
+   "electrolyte", 
+   1.0
+  ], 
+  [
+   "charge", 
+   0.5
+  ], 
+  [
+   "current", 
+   1.0
+  ], 
+  [
+   "charging", 
+   1.0
+  ], 
+  [
+   "circuit", 
+   1.0
+  ], 
+  [
+   "shorted", 
+   0.5
+  ], 
+  [
+   "sulfation", 
+   0.5
+  ]
+ ]
+}

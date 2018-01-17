@@ -1,0 +1,33 @@
+{
+ "article": "59263", 
+ "words": [
+  [
+   "medical", 
+   1.0
+  ], 
+  [
+   "human", 
+   0.5
+  ], 
+  [
+   "tissue", 
+   0.5
+  ], 
+  [
+   "biology", 
+   0.5
+  ], 
+  [
+   "cellular", 
+   0.5
+  ], 
+  [
+   "anatomy", 
+   0.5
+  ], 
+  [
+   "imaging", 
+   0.5
+  ]
+ ]
+}

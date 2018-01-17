@@ -1,0 +1,57 @@
+{
+ "article": "59272", 
+ "words": [
+  [
+   "allergy", 
+   1.0
+  ], 
+  [
+   "fever", 
+   0.5
+  ], 
+  [
+   "hay", 
+   1.0
+  ], 
+  [
+   "health", 
+   1.0
+  ], 
+  [
+   "care", 
+   0.5
+  ], 
+  [
+   "doctor", 
+   1.0
+  ], 
+  [
+   "sublingual", 
+   1.0
+  ], 
+  [
+   "antigens", 
+   1.0
+  ], 
+  [
+   "tongue", 
+   1.0
+  ], 
+  [
+   "shots", 
+   0.5
+  ], 
+  [
+   "shot", 
+   0.5
+  ], 
+  [
+   "drops", 
+   0.5
+  ], 
+  [
+   "treatment", 
+   0.5
+  ]
+ ]
+}

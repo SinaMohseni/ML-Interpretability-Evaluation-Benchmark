@@ -1,0 +1,49 @@
+{
+ "article": "54044", 
+ "words": [
+  [
+   "lead", 
+   0.5
+  ], 
+  [
+   "acid", 
+   0.5
+  ], 
+  [
+   "batteries", 
+   1.0
+  ], 
+  [
+   "battery", 
+   1.0
+  ], 
+  [
+   "discharge", 
+   1.0
+  ], 
+  [
+   "terminals", 
+   0.5
+  ], 
+  [
+   "ground", 
+   0.5
+  ], 
+  [
+   "plug", 
+   1.0
+  ], 
+  [
+   "leads", 
+   1.0
+  ], 
+  [
+   "spark", 
+   1.0
+  ], 
+  [
+   "plugs", 
+   1.0
+  ]
+ ]
+}

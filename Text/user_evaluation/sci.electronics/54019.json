@@ -1,0 +1,53 @@
+{
+ "article": "54019", 
+ "words": [
+  [
+   "lead", 
+   0.5
+  ], 
+  [
+   "acid", 
+   0.5
+  ], 
+  [
+   "batteries", 
+   1.0
+  ], 
+  [
+   "battery", 
+   1.0
+  ], 
+  [
+   "discharge", 
+   0.5
+  ], 
+  [
+   "electrons", 
+   1.0
+  ], 
+  [
+   "drains", 
+   0.5
+  ], 
+  [
+   "ground", 
+   1.0
+  ], 
+  [
+   "charged", 
+   1.0
+  ], 
+  [
+   "self", 
+   1.0
+  ], 
+  [
+   "discharges", 
+   1.0
+  ], 
+  [
+   "computing", 
+   0.5
+  ]
+ ]
+}

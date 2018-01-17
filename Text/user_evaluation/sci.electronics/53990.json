@@ -1,0 +1,53 @@
+{
+ "article": "53990", 
+ "words": [
+  [
+   "radio", 
+   1.0
+  ], 
+  [
+   "freq", 
+   1.0
+  ], 
+  [
+   "waves", 
+   1.0
+  ], 
+  [
+   "transmitter", 
+   1.0
+  ], 
+  [
+   "receiver", 
+   1.0
+  ], 
+  [
+   "radar", 
+   1.0
+  ], 
+  [
+   "signal", 
+   1.0
+  ], 
+  [
+   "strength", 
+   1.0
+  ], 
+  [
+   "multipath", 
+   0.5
+  ], 
+  [
+   "frequencies", 
+   1.0
+  ], 
+  [
+   "fcc", 
+   0.5
+  ], 
+  [
+   "waveguide", 
+   0.5
+  ]
+ ]
+}
