@@ -14,7 +14,7 @@ Our work contributes a novel methodology for evaluating the quality or human int
 We use a weighted masks (**_soft-explanations_**) for image samples to describe users opinion on objects in the image. 
 Here are some image examples:
 
-![dog 1](Image/user_heatmap/dog3.png) ![dog 2](Image/user_heatmap/dog2.png)  ![car](Image/user_heatmap/car4.png)
+![dog 1](Image/ImageNet/human_attention_overlay/dog3.png) ![dog 2](Image/ImageNet/human_attention_overlay/dog2.png)  ![car](Image/ImageNet/human_attention_overlay/car4.png)
 
 Similar, in text articles each word is weighted with two graders to demonstrade explanation weight. Text explanations are listed in JSON format files.
 
@@ -37,15 +37,13 @@ One way to compare machine generated explanations (e.g. [Lime](https://github.co
   
 ## Citation
 
-Description and details in this paper: http://people.tamu.edu/~sina.mohseni/webpage/Benchmark.pdf
+Description and details in this paper: https://arxiv.org/pdf/1801.05075.pdf
 
 ```
-@article{mohseni2018human,
-  title={A Human-Grounded Evaluation Benchmark for Local Explanations of Machine Learning},
-  author={Mohseni, Sina and Ragan, Eric D},
+@article{mohseni2020benchmark,
+  title={Quantitative Evaluation of Machine Learning Explanations: A Human-Grounded Benchmark},
+  author={Mohseni, Sina and Ragan, Eric D and Block, Jeremy E},
   journal={arXiv preprint arXiv:1801.05075},
-  year={2018}
+  year={2020}
 }
 ```
-
-More samples and full paper to be uploaded soon.
