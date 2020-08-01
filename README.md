@@ -21,7 +21,8 @@ Here are some image examples to compare single-layer segmentation mask and multi
 
 Similarly, words and phrases are weighted based on annotators' selection for each text article. Human-attention masks for text samples are in JSON format files.
 This table shows the number of samples with human-attention ground truth from four publicly available image and text datasets: 
-<img src="Image/table.PNG" width="400">
+
+<img src="Image/table.PNG" width="500">
 
 
 ## Benchmark Structure
