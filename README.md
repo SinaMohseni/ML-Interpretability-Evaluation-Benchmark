@@ -43,7 +43,7 @@ More details and experiment results in this paper: https://arxiv.org/pdf/1801.05
 ```
 @article{mohseni2020benchmark,
   title={Quantitative Evaluation of Machine Learning Explanations: A Human-Grounded Benchmark},
-  author={Mohseni, Sina and Ragan, Eric D and Block, Jeremy E},
+  author={Mohseni, Sina and Block, Jeremy E and Ragan, Eric D},
   journal={arXiv preprint arXiv:1801.05075},
   year={2020}
 }
